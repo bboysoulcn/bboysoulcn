@@ -1,38 +1,63 @@
-# 欢迎来到bboysoul的github
+---
+title: 公告
+date: 2099-09-24 15:50
+---
 
-- 我的博客: https://www.bboy.app
+### 如何在线battle我的博客
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bboysoulcn&show_icons=true&theme=radical)
+`https://github.com/bboysoulcn/blog-comment`
+
+可以在上面这个项目提issues来battle
+
+### 博客编译状态
+
+[![Build Status](https://drone.bboysoul.cn/api/badges/bboysoul/blog/status.svg)](https://drone.bboysoul.cn/bboysoul/blog)
+
+### 友情链接
+
+[米亚の鱼](https://blog.miacraft.cn/)
+
+[二丫讲梵](https://wiki.eryajf.net/)
 
 ### 可以使用的免费服务
 
 查看本地ip
 
+
 `curl ip.bboysoul.cn`
+
+`curl realip.cc`
+
+
+### 一些状态
+
+github状态
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bboysoulcn&show_icons=true&theme=radical)
+
+### 点击虫洞，随机访问一个十年之约博客
+
+<a href="https://www.foreverblog.cn/go.html" target="_blank" > <img src="https://img.foreverblog.cn/wormhole_1.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"> </a>
 
 ### 我的grafana
 
 `https://grafana.bboysoul.cn/d/LTUPm_ink/jian-kong-da-ping?orgId=1&refresh=5s&kiosk`
 
-### 自己托管的prometheus文档
-
-`https://prometheus-doc.bboysoul.cn/`
-
-因为国外的访问比较慢，所以自己直接托管了一个，使用drone ci更新
-
 ### bark服务器
 
 `https://bark.bboysoul.cn/`
+
+### 搜索
+
+`https://search.bboysoul.cn/`
 
 ### 使用下面这个链接来查看博客目前的访问量
 
 `https://umami.bboysoul.cn/share/o3KpnfdB/bboy.app`
 
-### 钉钉群
 
-因为微信群二维码只有7天的有效时间，所以还是使用钉钉吧，到时候还可以搞几个机器人玩玩
+Powered by Bboysoul 
 
-钉钉群二维码有效时间是一年，希望过期之后有人可以提醒我
+🤖🤖🤖20220104更新🤖🤖🤖
 
-![](https://www.bboy.app/oss/202109131034336.jpeg)
 
