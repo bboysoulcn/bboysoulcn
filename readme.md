@@ -6,9 +6,6 @@
 
 可以在上面这个项目提issues来battle
 
-### 博客编译状态
-
-[![Build Status](https://drone.bboysoul.cn/api/badges/bboysoul/blog/status.svg)](https://drone.bboysoul.cn/bboysoul/blog)
 
 ### 友情链接
 
