@@ -1,10 +1,18 @@
-
-
 ### 如何在线battle我的博客
 
-`https://github.com/bboysoulcn/blog-comment`
+[https://github.com/bboysoulcn/blog-comment](https://github.com/bboysoulcn/blog-comment)
 
 可以在上面这个项目提issues来battle
+
+或者直接关注我的twitter
+
+[https://twitter.com/bboysoulcn](https://twitter.com/bboysoulcn)
+
+或者邮箱
+
+`bboysoul@bboy.app`
+
+或者直接评论
 
 
 ### 友情链接
@@ -50,8 +58,9 @@ github状态
 `https://umami.bboysoul.cn/share/o3KpnfdB/bboy.app`
 
 
+
 Powered by Bboysoul 
 
-🤖🤖🤖20220104更新🤖🤖🤖
+🤖🤖🤖20220125更新🤖🤖🤖
 
 
