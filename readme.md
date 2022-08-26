@@ -1,66 +1,34 @@
-### 如何在线battle我的博客
-
-[https://github.com/bboysoulcn/blog-comment](https://github.com/bboysoulcn/blog-comment)
-
-可以在上面这个项目提issues来battle
-
-或者直接关注我的twitter
-
-[https://twitter.com/bboysoulcn](https://twitter.com/bboysoulcn)
-
-或者邮箱
-
-`bboysoul@bboy.app`
-
-或者直接评论
-
-
-### 友情链接
-
-[米亚の鱼](https://blog.miacraft.cn/)
-
-[二丫讲梵](https://wiki.eryajf.net/)
-
 ### 可以使用的免费服务
 
 查看本地ip
 
-
-`curl ip.bboysoul.cn`
-
 `curl realip.cc`
 
+doh 服务器
 
-### 一些状态
+`https://dns.bboysoul.cn/dns-query`
 
-github状态
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bboysoulcn&show_icons=true&theme=radical)
+上面两个会长期运营，地球挂了也不会中断，欢迎使用
 
 ### 点击虫洞，随机访问一个十年之约博客
 
 <a href="https://www.foreverblog.cn/go.html" target="_blank" > <img src="https://img.foreverblog.cn/wormhole_1.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"> </a>
 
-### 我的grafana
-
-`https://grafana.bboysoul.cn/d/LTUPm_ink/jian-kong-da-ping?orgId=1&refresh=5s&kiosk`
-
-### bark服务器
-
-`https://bark.bboysoul.cn/`
-
-### 搜索
-
-`https://search.bboysoul.cn/`
 
 ### 使用下面这个链接来查看博客目前的访问量
 
 `https://umami.bboysoul.cn/share/o3KpnfdB/bboy.app`
 
+### 我的推特
+
+欢迎关注
+
+`https://twitter.com/bboysoulcn`
+
 
 
 Powered by Bboysoul 
 
-🤖🤖🤖20220125更新🤖🤖🤖
+🤖🤖🤖20220824更新🤖🤖🤖
 
 
