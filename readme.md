@@ -4,22 +4,15 @@
 
 `curl realip.cc`
 
-### 点击虫洞，随机访问一个十年之约博客
-
-<a href="https://www.foreverblog.cn/go.html" target="_blank" > <img src="https://img.foreverblog.cn/wormhole_1.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"> </a>
-
-
-### 使用下面这个链接来查看博客目前的访问量
-
-`https://umami.bboysoul.cn/share/o3KpnfdB/bboy.app`
-
 ### 我的推特
 
 欢迎关注
 
 `https://twitter.com/bboysoulcn`
 
+### 我的频道
 
+`https://t.me/bboyapp`
 
 Powered by Bboysoul 
 
