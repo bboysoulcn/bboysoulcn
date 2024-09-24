@@ -63,7 +63,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
+    readme = root / "readme.md"
     url = "https://www.bboy.app/atom.xml"
     feeds = fetch_feed(url)
     feeds_md = "\n\n".join([format_feed_entry(feed) for feed in feeds])
