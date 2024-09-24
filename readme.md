@@ -32,12 +32,14 @@
 
 ---
 
+
 ### 可以使用的免费服务
 
 查看本地ip
 
 `curl realip.cc`
 
-🤖🤖🤖20240924更新🤖🤖🤖
+![Bboysoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboysoulcn&show_icons=true)
+
 
 
