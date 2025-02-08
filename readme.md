@@ -25,6 +25,8 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[我关注的项目这周更新了什么-20250207](https://www.bboy.app/2025/02/07/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250207/) - 2025-02-07
+
 [我关注的项目这周更新了什么-20250126](https://www.bboy.app/2025/01/26/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250126/) - 2025-01-26
 
 [Getting Started with NixOS](https://www.bboy.app/2025/01/22/getting-started-with-nixos/) - 2025-01-22
@@ -32,8 +34,6 @@
 [开始使用nixos](https://www.bboy.app/2025/01/22/%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8nixos/) - 2025-01-22
 
 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2025-01-22
-
-[我关注的项目这周更新了什么-20250117](https://www.bboy.app/2025/01/17/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250117/) - 2025-01-17
 <!-- blog end -->
 </td>
 </tr></table>
