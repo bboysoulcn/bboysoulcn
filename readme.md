@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[Monitor Synology UPS with Peanut](https://www.bboy.app/2025/06/06/monitor-synology-ups-with-peanut/) - 2025-06-06
+
+[使用peanut监控群晖ups](https://www.bboy.app/2025/06/06/%E4%BD%BF%E7%94%A8peanut%E7%9B%91%E6%8E%A7%E7%BE%A4%E6%99%96ups/) - 2025-06-06
+
+[20250606的胡言乱语](https://www.bboy.app/2025/06/06/20250606%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2025-06-06
+
+[我关注的项目这周更新了什么-20250606](https://www.bboy.app/2025/06/06/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250606/) - 2025-06-06
+
 [我关注的项目这周更新了什么-20250603](https://www.bboy.app/2025/06/03/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250603/) - 2025-06-03
-
-[20250527的胡言乱语](https://www.bboy.app/2025/05/27/20250527%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2025-05-27
-
-[我关注的项目这周更新了什么-20250526](https://www.bboy.app/2025/05/26/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250526/) - 2025-05-26
-
-[Update NixOS to 25.05](https://www.bboy.app/2025/05/26/update-nixos-to-25.05/) - 2025-05-26
-
-[更新nixos到25.05](https://www.bboy.app/2025/05/26/%E6%9B%B4%E6%96%B0nixos%E5%88%B025.05/) - 2025-05-26
 <!-- blog end -->
 </td>
 </tr></table>
