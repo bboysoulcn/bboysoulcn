@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[I Bought an iPhone 17](https://www.bboy.app/2026/02/09/i-bought-an-iphone-17/) - 2026-02-09
+
+[买了一个iPhone17](https://www.bboy.app/2026/02/09/%E4%B9%B0%E4%BA%86%E4%B8%80%E4%B8%AAiphone17/) - 2026-02-09
+
 [我关注的项目这周更新了什么-20260206](https://www.bboy.app/2026/02/06/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260206/) - 2026-02-06
 
 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-02-05
 
 [Random Thoughts - 20260205](https://www.bboy.app/2026/02/05/random-thoughts-20260205/) - 2026-02-05
-
-[我关注的项目这周更新了什么-20260130](https://www.bboy.app/2026/01/30/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260130/) - 2026-01-30
-
-[20260129的胡言乱语](https://www.bboy.app/2026/01/29/20260129%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-01-29
 <!-- blog end -->
 </td>
 </tr></table>
