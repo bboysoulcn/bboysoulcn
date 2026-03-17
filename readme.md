@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[Vibe Coding with GitHub Copilot](https://www.bboy.app/2026/03/16/vibe-coding-with-github-copilot/) - 2026-03-16
+
+[使用GitHub-Copilot进行Vibe-Coding](https://www.bboy.app/2026/03/16/%E4%BD%BF%E7%94%A8github-copilot%E8%BF%9B%E8%A1%8Cvibe-coding/) - 2026-03-16
+
+[20260316的胡言乱语](https://www.bboy.app/2026/03/16/20260316%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-03-16
+
 [20260313的胡言乱语](https://www.bboy.app/2026/03/13/20260313%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-03-13
 
 [我关注的项目这周更新了什么-20260313](https://www.bboy.app/2026/03/13/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260313/) - 2026-03-13
-
-[我关注的项目这周更新了什么-20260306](https://www.bboy.app/2026/03/06/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260306/) - 2026-03-06
-
-[我关注的项目这周更新了什么-20260225](https://www.bboy.app/2026/02/25/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260225/) - 2026-02-25
-
-[I Bought an iPhone 17](https://www.bboy.app/2026/02/09/i-bought-an-iphone-17/) - 2026-02-09
 <!-- blog end -->
 </td>
 </tr></table>
