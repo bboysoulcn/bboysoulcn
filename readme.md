@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[20260528的胡言乱语](https://www.bboy.app/2026/05/28/20260528%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-05-28
+
+[Random Thoughts - 20260528](https://www.bboy.app/2026/05/28/random-thoughts-20260528/) - 2026-05-28
+
 [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) - 2026-05-20
 
 [买了Quote/0](https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/) - 2026-05-20
 
 [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-05-20
-
-[20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-05-19
-
-[20260509的胡言乱语](https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-05-09
 <!-- blog end -->
 </td>
 </tr></table>
