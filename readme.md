@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) - 2026-08-20
+
+[介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) - 2026-08-20
+
 [How I Use Hermes](https://www.bboy.app/2026/08/11/how-i-use-hermes/) - 2026-08-11
 
 [我是怎么用 Hermes 的](https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/) - 2026-08-11
 
 [Whey Protein and Creatine](https://www.bboy.app/2026/08/11/whey-protein-and-creatine/) - 2026-08-11
-
-[蛋白粉和肌酸](https://www.bboy.app/2026/08/11/%E8%9B%8B%E7%99%BD%E7%B2%89%E5%92%8C%E8%82%8C%E9%85%B8/) - 2026-08-11
-
-[20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-08-11
 <!-- blog end -->
 </td>
 </tr></table>
