@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[Blog Theme Update Easier-to-Read Articles and Code Blocks](https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/) - 2026-09-03
+
+[博客主题更新：更好读的文章页和代码块](https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/) - 2026-09-03
+
+[Building a Personal Manga Library with Komga](https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/) - 2026-09-03
+
+[用 Komga 搭一个自己的漫画库](https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/) - 2026-09-03
+
 [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) - 2026-09-02
-
-[在Kubernetes中部署LiteLLM](https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/) - 2026-09-02
-
-[20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-09-02
-
-[Random Thoughts - 20260902](https://www.bboy.app/2026/09/02/random-thoughts-20260902/) - 2026-09-02
-
-[Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) - 2026-08-20
 <!-- blog end -->
 </td>
 </tr></table>
