@@ -25,15 +25,15 @@
 ### 我最近的博客
 
 <!-- blog start -->
+[When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared](https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/) - 2026-10-27
+
+[记一次ArgoRollouts Dashboard的namespace下拉框消失](https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/) - 2026-10-27
+
+[20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) - 2026-10-26
+
+[Random Thoughts - 20261026](https://www.bboy.app/2026/10/26/random-thoughts-20261026/) - 2026-10-26
+
 [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) - 2026-09-17
-
-[博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) - 2026-09-17
-
-[I Recreated My Own Version of TickTick with AI](https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/) - 2026-09-09
-
-[我用 AI 复刻了一个自己的 TickTick](https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/) - 2026-09-09
-
-[Blog Theme Update Easier-to-Read Articles and Code Blocks](https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/) - 2026-09-03
 <!-- blog end -->
 </td>
 </tr></table>
